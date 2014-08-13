@@ -11,5 +11,5 @@ To run against a local Zookeeper instance, simply share zookeepers location with
 
         docker run -p 8000:8000 -v /path/to/zookeeper:/opt/zookeeper -i -t <username>/exhibitor. 
 
-Access Exhibitor: http://localhost:8000/exhibitor/v1/ui/index.html and add ``/opt/zookeeper``as path to zookeeper. 
+Access Exhibitor: ``http://localhost:8000/exhibitor/v1/ui/index.html`` and add ``/opt/zookeeper``as path to zookeeper. 
 
