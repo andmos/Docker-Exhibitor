@@ -1,4 +1,4 @@
-FROM lwieske/java-8
+FROM java:8
 
 MAINTAINER Andreas Mosti <andreas.mosti@gmail.com>
 
