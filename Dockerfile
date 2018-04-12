@@ -1,6 +1,6 @@
 FROM java:8
 
-MAINTAINER Chatree Kunjai <soloman.tc@gmail.com>
+MAINTAINER Andreas Mosti <andreas.mosti@gmail.com>
 
 RUN apt-get update
 RUN apt-get install -y wget maven
